@@ -67,7 +67,7 @@ export default function Weather() {
       <div className="source">
         <small>
           <a
-            href="https://github.com/AngelaMoesch123/React-Weather-App.git"
+            href="https://github.com/AngelaMoesch123/React-Weather-App2.git"
             target="_blank"
             rel="noreferrer"
           >
